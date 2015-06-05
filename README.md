@@ -1,2 +1,3 @@
-# wunderlist-api
-Wunderlist API
+# Wunderlist Api
+
+Based on [official documentation](https://developer.wunderlist.com/documentation)
